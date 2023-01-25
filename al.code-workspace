@@ -5,6 +5,9 @@
     },
     {
       "path": "Scuba Dive App"
+    },
+    {
+      "path": "Scuba Dive App.Test"
     }
   ],
   "settings": {}
